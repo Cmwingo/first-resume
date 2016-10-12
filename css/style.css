@@ -1,0 +1,25 @@
+.contact{
+  font-size: 24pt;
+  text-align: center;
+  line-height: 8px;
+}
+.section{
+  font-weight: bolder;
+  font-size: 35pt;
+}
+.desc{
+  font-size: 14pt;
+  font-style: italic;
+}
+.job{
+  font-family: cursive;
+  color: #ffaaff;
+}
+.odd{
+  color: green;
+  font-size: 30pt;
+}
+.important{
+  color: red;
+  line-height: 10px;
+}
